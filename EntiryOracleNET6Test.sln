@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntiryOracleNET6Test", "EntiryOracleNET6Test\EntiryOracleNET6Test.csproj", "{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Debug|x86.ActiveCfg = Debug|x86
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Debug|x86.Build.0 = Debug|x86
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Release|x86.ActiveCfg = Release|x86
+		{AFB8E1C0-FC91-41CB-A825-4B3DAB0DDFDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C248151-FBCC-4F33-8BA4-96DE53F6A22B}
+	EndGlobalSection
+EndGlobal
